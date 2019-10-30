@@ -1,0 +1,2 @@
+include ':app', ':marketpricelibrary'
+rootProject.name='Market App'
