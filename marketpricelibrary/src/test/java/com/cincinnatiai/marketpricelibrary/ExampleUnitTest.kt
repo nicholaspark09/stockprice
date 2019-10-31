@@ -1,4 +1,4 @@
-package com.fastenal.marketapp
+package com.cincinnatiai.marketpricelibrary
 
 import org.junit.Test
 

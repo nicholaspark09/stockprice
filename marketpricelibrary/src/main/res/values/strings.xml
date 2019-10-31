@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MarketPriceLibrary</string>
+    <string name="market_url">https://api.worldtradingdata.com/</string>
 </resources>
